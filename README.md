@@ -2,9 +2,9 @@
 ### FASE 1
 LimpiezaBaseDatos
 
-[Base 2](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
+-[Base 2](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza(base2)_01.ipynb)
 
-[Base 1](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
+-[Base 1](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej_Limpieza_01.ipynb)
  
 [Base de Datos](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Ej1_BasesDatos_Equipo_1.pdf)
 
