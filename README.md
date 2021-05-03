@@ -16,3 +16,6 @@ LimpiezaBaseDatos
 [Avande PIA 2](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo3_01.ipynb)
 
 [Mapa Mental II](https://github.com/anagonzap/MineriaDatos/blob/main/MapaMental_2_1941504.pdf)
+
+[Avance poster](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster%20.pdf)
+
