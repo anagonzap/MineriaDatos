@@ -19,3 +19,4 @@ LimpiezaBaseDatos
 
 [Avance poster](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster%20.pdf)
 
+[Poster](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Avance%20poster.pdf)
