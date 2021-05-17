@@ -13,7 +13,7 @@ LimpiezaBaseDatos
 
 [Tarea de Visualización](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/Visualización1%20.ipynb)
 
-[Avande PIA 2](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo3_01.ipynb)
+[Avance PIA 2](https://github.com/AranzaEsteban/Mineria-de-datos/blob/main/AvancePIA_II_Grupo3_01.ipynb)
 
 [Mapa Mental II](https://github.com/anagonzap/MineriaDatos/blob/main/MapaMental_2_1941504.pdf)
 
